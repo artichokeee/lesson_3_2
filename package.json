@@ -1,0 +1,23 @@
+{
+  "name": "lesson_3_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artichokeee/lesson_3_2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artichokeee/lesson_3_2/issues"
+  },
+  "homepage": "https://github.com/artichokeee/lesson_3_2#readme",
+  "devDependencies": {
+    "babel-plugin-istanbul": "^6.1.1",
+    "jest": "^29.7.0"
+  }
+}
